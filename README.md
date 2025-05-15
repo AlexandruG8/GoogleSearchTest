@@ -1,5 +1,5 @@
 # GoogleSearchTest
-Short automation test case to search for something on Google  
+Short automation test scenario to search for something on Google  
 Following the next steps:    
 
 First step: Open the browser  
